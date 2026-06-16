@@ -8,7 +8,7 @@
 
 WandB პროექტი : https://wandb.ai/lkviz23-free-university-of-tbilisi-/facial-expression-recognition?nw=nwuserlkviz23
 Wandb runs: https://wandb.ai/lkviz23-free-university-of-tbilisi-/facial-expression-recognition/table?nw=nwuserlkviz23
-
+Wandb report: https://wandb.ai/lkviz23-free-university-of-tbilisi-/facial-expression-recognition/reports/Untitled-Report--VmlldzoxNzI0OTE5OQ/edit?draftId=VmlldzoxNzI0OTE5OQ==
 ---
 ## 🏗️ პროექტის არქიტექტურა (`src/`)
 მთელი მთავარი ლოგიკა მოქცეულია `src/` საქაღალდეში, საიდანაც ნოუთბუქები იძახებენ საჭირო ფუნქციებს:
